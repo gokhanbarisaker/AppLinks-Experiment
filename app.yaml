@@ -1,5 +1,5 @@
-application: adroit-cortex-589
-module: python
+application: applinksexperiment
+module: default
 version: ichi
 runtime: python27
 api_version: 1
